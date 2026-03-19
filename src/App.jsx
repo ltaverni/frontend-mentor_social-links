@@ -25,7 +25,7 @@ const Links = () => {
 
 const Description = () => {
     return (
-        <div className='description'>"Front-end developer and avid reader"</div>
+        <div className='description'>"Front-end developer and avid reader."</div>
     )
 }
 

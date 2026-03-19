@@ -18,6 +18,7 @@ html {
     width: 100%;
     margin: 0;
     font-family: 'Inter-Regular';
+    font-size: 13px;
     color: hsl(0, 0%, 100%);
 }
 
@@ -66,5 +67,9 @@ html,
     margin-top: 5px;
     font-family: 'Inter-Bold';
     color: hsl(75, 94%, 57%);
-    font-size: 13px;
+}
+
+.description {
+    margin-top: 25px;
+    color: hsl(0, 0%, 90%)
 }
