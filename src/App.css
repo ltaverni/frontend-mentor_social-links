@@ -60,3 +60,11 @@ html,
     font-family: 'Inter-SemiBold';
     font-size: 22px;
 }
+
+
+.address {
+    margin-top: 5px;
+    font-family: 'Inter-Bold';
+    color: hsl(75, 94%, 57%);
+    font-size: 13px;
+}
