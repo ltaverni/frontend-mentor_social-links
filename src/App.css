@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Inter-Regular';
+    src: local('Inter-Regular'), url(./assets/fonts/static/Inter-Regular.ttf) format('truetype');
+}
+
+
+body,
+html {
+    width: 100%;
+    margin: 0;
+    font-family: 'Inter-Regular';
+}
+
+body,
+html,
+#root {
+    width: 100%;
+    height: 100%;
+}
