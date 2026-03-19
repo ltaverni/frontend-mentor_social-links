@@ -5,19 +5,19 @@ const Links = () => {
     return (
         <div className='links'>
             <div className='link-container'>
-                <a>GitHub</a>
+                <a href='https://github.com'>GitHub</a>
             </div>
             <div className='link-container'>
-                <a>Frontend Mentor</a>
+                <a href='https://www.frontendmentor.io'>Frontend Mentor</a>
             </div>
             <div className='link-container'>
-                <a>Linkedin</a>
+                <a href='https://linkedin.com'>Linkedin</a>
             </div>
             <div className='link-container'>
-                <a>Twitter</a>
+                <a href='https://x.com'>Twitter</a>
             </div>
             <div className='link-container'>
-                <a>Instagram</a>
+                <a href='https://instagram.com'>Instagram</a>
             </div>
         </div>
     )
