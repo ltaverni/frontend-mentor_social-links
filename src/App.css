@@ -73,3 +73,23 @@ html,
     margin-top: 25px;
     color: hsl(0, 0%, 90%)
 }
+
+
+.links {
+    margin-top: 20px;
+    width: 22em;
+}
+
+.link-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    margin-top: 12px;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 0.5em;
+}
+
+.link-container > a {
+    font-family: 'Inter-Bold';
+}
