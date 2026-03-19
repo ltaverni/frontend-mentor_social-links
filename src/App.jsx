@@ -1,4 +1,5 @@
 import './App.css'
+import picture from './assets/images/avatar-jessica.jpeg'
 
 const Links = () => {
     return (
@@ -43,7 +44,7 @@ const Name = () => {
 const Picture = () => {
     return (
         <div className='picture'>
-            <img></img>
+            <img src={picture}></img>
         </div>
     )
 }
